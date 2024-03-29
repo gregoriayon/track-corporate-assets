@@ -7,7 +7,7 @@ from app_main.models import (
 )
 
 # Register your models here.
-admin.site.site_header = "Track Corporate Assets"
+admin.site.site_header = "Corporate Asset Tracking App"
 
 admin.site.register(CompanyModel)
 
